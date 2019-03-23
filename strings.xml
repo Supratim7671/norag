@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Norag</string>
+    <string name="base_url">https://www.no-rag.cf/index/</string>
+    <!--<string name="base_url">http://192.168.43.132:8000/index/</string>-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="top_sheet_behavior" translatable="false">com.example.pallavi.norag.TopSheetBehavior</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_authority">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_complain">complain</string>
+    <string-array name="numbers">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="status">
+        <item></item>
+        <item>In Progress</item>
+        <item>In DC</item>
+        <item>Action Taken</item>
+
+    </string-array>
+    <string-array name="branch">
+        <item></item>
+        <item>Computer Science Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electronics Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electric Engineering</item>
+
+    </string-array>
+    <string-array name="designation">
+        <item></item>
+        <item>Proffessor</item>
+        <item>Associate Proffessor</item>
+        <item>Assistant Proffessor</item>
+
+    </string-array>
+    <string name="appwidget_text">No-Rag</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_assddsaaa">Assddsaaa</string>
+    <string name="app_text">
+        ‘NoRag’ is a Smart Phone application.
+        It aims at removal and elimination of ragging.
+        If mobile shaken hard, it sends notifications of help alerts to the authority(members of Anti Ragging Committee) and the receiver can see  victim’s information  along with the location and the shortest route to reach the latter.
+        In addition to this, the authority gets the privilege to share any complaint along with the information about the victim’s location on any social media like ‘WhatsApp’.
+        Further, the app allows the authority to give votes to complaints and based on the its sum, can decide the severity of punishments.
+        The system of notifications keep both the parties victims and the authority up to date.
+    </string>
+
+</resources>
